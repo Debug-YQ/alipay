@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/alipay.iml" filepath="$PROJECT_DIR$/alipay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alipay-test/alipay-test.iml" filepath="$PROJECT_DIR$/alipay-test/alipay-test.iml" />
     </modules>
   </component>
 </project>
