@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/alipay.iml" filepath="$PROJECT_DIR$/alipay.iml" />
-      <module fileurl="file://$PROJECT_DIR$/alipay-test/alipay-back.iml" filepath="$PROJECT_DIR$/alipay-test/alipay-back.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alipay-back/alipay-back.iml" filepath="$PROJECT_DIR$/alipay-back/alipay-back.iml" />
       <module fileurl="file://$PROJECT_DIR$/alipay-front.iml" filepath="$PROJECT_DIR$/alipay-front.iml" />
     </modules>
   </component>

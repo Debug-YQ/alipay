@@ -11,8 +11,8 @@
     <groupId>com.example</groupId>
     <artifactId>alipay-back</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>alipay-test</name>
-    <description>alipay-test</description>
+    <name>alipay-back</name>
+    <description>alipay-back</description>
     <properties>
         <java.version>17</java.version>
     </properties>
